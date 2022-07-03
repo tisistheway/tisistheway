@@ -5,5 +5,5 @@ Hola I'm Sunny!! 👋<br> <br>
 👯 I’m looking to collaborate on [Twitter]((https://twitter.com/tisistheway)) <br>
 🤔 I’m looking for help with Blockcahin Research and Development <br>
 💬 Ask me about any tech related stuff <br>
-📫 How to reach me [linkedin](https://www.linkedin.com/in/sunt001/) <br>
+📫 How to reach me [twitter](https://twitter.com/tisistheway) <br>
 <img src="https://github-readme-stats.vercel.app/api?username=tisistheway&show_icons=true&theme=radical">
